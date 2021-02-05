@@ -1,0 +1,5 @@
+Flask
+Flask-HTMLmin
+markdown
+beautifulsoup4
+bs4
